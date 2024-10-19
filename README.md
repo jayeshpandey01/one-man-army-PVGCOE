@@ -2,9 +2,9 @@
 
 ## PVGOE - one man army
 **Participant:**
-- Name: 
+- Name: Piyush Vilas Joshi
 - Role: Developer
-- Email: 
+- Email: piyushjoshi190804@gmail.com
 
 ## Problem Statement
 ### Theme:
@@ -48,10 +48,10 @@ The project will implement real-time speech recognition and sign language transl
    ```bash
    npm install
    
-3. **Set Up API Credentials:
+3. **Set Up API Credentials:**
    
 Obtain API keys for Zoom or Microsoft Teams.
-Create a .env file in the root directory and add your API credentials:**
+Create a .env file in the root directory and add your API credentials:
    ```bash
     ZOOM_API_KEY=your_zoom_api_key
     ZOOM_API_SECRET=your_zoom_api_secret
@@ -64,11 +64,12 @@ Create a .env file in the root directory and add your API credentials:**
    
 5. Testing the Plugin:
 Open the web app in your browser (default: http://localhost:3000).
+
 Start a test meeting on Zoom or Microsoft Teams and activate the sign language translation feature through the interface.
 
-6. Accessing Speech Recognition: Ensure your microphone is enabled and the application has permission to access it.
+7. Accessing Speech Recognition: Ensure your microphone is enabled and the application has permission to access it.
 
-7. Using the Sign Language Translation:
+8. Using the Sign Language Translation:
 During a meeting, enable the sign language translation option.
 The translated sign language should appear in the designated panel or overlay.
 
