@@ -1,6 +1,6 @@
 # Sign Language Translator for Virtual Meetings
 
-## PVGOE - one man army
+## PVGCOE - one man army
 **Participant:**
 - Name: Piyush Vilas Joshi
 - Role: Developer
